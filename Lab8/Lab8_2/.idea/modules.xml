@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WebShopComponentsClient/WebShop.iml" filepath="$PROJECT_DIR$/WebShopComponentsClient/WebShop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebShopComponentsCustomers/WebShop (1).iml" filepath="$PROJECT_DIR$/WebShopComponentsCustomers/WebShop (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebShopComponentsOrder/WebShop (2).iml" filepath="$PROJECT_DIR$/WebShopComponentsOrder/WebShop (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebShopComponentsProducts/WebShop (3).iml" filepath="$PROJECT_DIR$/WebShopComponentsProducts/WebShop (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebShopComponentsShopping/WebShop (4).iml" filepath="$PROJECT_DIR$/WebShopComponentsShopping/WebShop (4).iml" />
+    </modules>
+  </component>
+</project>

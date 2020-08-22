@@ -1,0 +1,13 @@
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: testdb
+logging:
+  level:
+    root: ERROR
+server:
+  port: 8093
+ordersURL: http://localhost:8094
+productsURL: http://localhost:8091
