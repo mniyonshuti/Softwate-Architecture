@@ -15,5 +15,3 @@ logging:
       springframework: ERROR
 server:
   port: 8094
-customersURL: http://localhost:8092
-productsURL: http://localhost:8091
